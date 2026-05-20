@@ -1,0 +1,4 @@
+id_venda;data_venda;nome_cliente;categoria_cliente;loja;municipio;estado;nome_vendedor;categoria_produto;quantidade_vendida;preco_unitario;preco_total;venda_parcelada
+1;2025-01-03;Simone Rocha;Diamante;Loja Centro;São Paulo;São Paulo;Rafael Souza;Papelaria;5;26.0;130.0;Não
+2;2025-01-05;Paulo Gomes;Ouro;Loja Bairro;Campinas;São Paulo;Marcos Lima;Informática;2;1500.0;3000.0;Sim
+3;2025-01-08;Renata Costa;Prata;Loja Shopping;Santos;São Paulo;Juliana Alves;Utilidades Domésticas;3;45.0;135.0;Não
